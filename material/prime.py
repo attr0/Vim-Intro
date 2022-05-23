@@ -7,7 +7,7 @@ def isPrime(x):i
 def isPrime(x):i
 st =
 ed =
-for i in range(st, float(end)):
+for i in range(st, float(ed)):
     if x%i == 0:              
         # return point #1
 # return point #2
@@ -19,6 +19,6 @@ def main():
         if isprime(num):
             print(num)         
 
-if __name__ == 'main':
+if __name__ == '__main__':
     main()
 
