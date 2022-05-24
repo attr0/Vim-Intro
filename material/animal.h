@@ -3,5 +3,5 @@
 
 class Animal {
 	public:
-		void make_sound() const = 0;
+		virtual void make_sound() const = 0;
 };

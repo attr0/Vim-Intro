@@ -1,5 +1,5 @@
 // task1: fix the loops
-// task2: fix the wrong class name
+// task2: fix the push operation & wrong class name
 
 #include <vector>
 
