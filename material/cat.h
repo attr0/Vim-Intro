@@ -1,5 +1,5 @@
-// task2: copy this file to dog.h
-// task3: make dog.h work
+// task3: copy this file to dog.h
+// task4: make dog.h work
 
 #pragma once
 #include "animal.h"
